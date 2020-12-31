@@ -1,4 +1,9 @@
 # Spacy
+
+![Architecture](https://spacy.io/architecture-bcdfffe5c0b9f221a2f6607f96ca0e4a.svg)
+
+
+
 ``vocab``
 
 ``nlp.vocab``
