@@ -1,4 +1,8 @@
 # Spacy
-`vocab' --nlp.vocab
-`doc`
-`Tokenizer`
+`vocab' 
+
+``nlp.vocab``
+
+``doc``
+
+``Tokenizer``
