@@ -1,5 +1,5 @@
 # Spacy
-`vocab' 
+``vocab``
 
 ``nlp.vocab``
 
