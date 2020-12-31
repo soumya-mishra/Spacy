@@ -16,7 +16,7 @@ matcher.add("HelloWorld", None, pattern)
 doc = nlp("hello world!")
 matches = matcher(doc)```
 
-`Pharasematcher`
+__Pharasematcher__
 
 ```from spacy.matcher import PhraseMatcher
 matcher = PhraseMatcher(nlp.vocab)
